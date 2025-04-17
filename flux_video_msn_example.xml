@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Vidéos - L'Humanité</title>
+    <link>https://www.humanite.fr</link>
+    <description>Dernières vidéos publiées par la rédaction de L'Humanité</description>
+    <language>fr</language>
+    <lastBuildDate>Mon, 15 Apr 2025 10:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Mobilisation nationale contre la réforme</title>
+      <link>https://www.humanite.fr/videos/mobilisation-reforme</link>
+      <description>Des milliers de personnes ont défilé ce lundi à Paris pour protester contre la réforme.</description>
+      <pubDate>Mon, 15 Apr 2025 08:00:00 GMT</pubDate>
+
+      <media:content 
+        url="https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+        type="video/mp4"
+        width="1280"
+        height="720"
+        duration="60"
+        lang="fr" />
+
+      <media:thumbnail url="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" />
+      <media:category>News</media:category>
+      <media:keywords>grève, réforme, mobilisation, syndicats</media:keywords>
+      <media:credit role="author">L'Humanité</media:credit>
+    </item>
+
+    <item>
+      <title>Culture : rencontre avec Ken Loach</title>
+      <link>https://www.humanite.fr/videos/ken-loach-interview</link>
+      <description>Le cinéaste britannique Ken Loach revient sur son dernier film et sa vision du monde.</description>
+      <pubDate>Sun, 14 Apr 2025 17:30:00 GMT</pubDate>
+
+      <media:content 
+        url="https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+        type="video/mp4"
+        width="1280"
+        height="720"
+        duration="60"
+        lang="fr" />
+
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ken_Loach_by_Gage_Skidmore.jpg/640px-Ken_Loach_by_Gage_Skidmore.jpg" />
+      <media:category>Culture</media:category>
+      <media:keywords>cinéma, interview, Ken Loach, film</media:keywords>
+      <media:credit role="author">L'Humanité</media:credit>
+    </item>
+
+  </channel>
+</rss>
