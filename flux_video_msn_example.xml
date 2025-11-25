@@ -5,204 +5,56 @@
      version="2.0">
 
 <channel>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/mrss/canalsupportersparis</link>
+<title><![CDATA[CanalSupportersParis – Vidéos]]></title>
+<link>https://www.canalsupporters.com/videos</link>
 <description><![CDATA[Flux vidéo CanalSupportersParis destiné à MSN]]></description>
 <language>fr</language>
 <lastBuildDate>Tue, 25 Nov 2025 13:48:52 GMT</lastBuildDate>
+
 <item>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/video/canalsupportersparis/oknwXIt6IJ8</link>
-<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
-<guid isPermaLink="false">youtube:oknwXIt6IJ8</guid>
-<dc:creator>CanalSupportersParis</dc:creator>
+<title><![CDATA[PSG – Conférence de Presse : les dernières infos avant le match]]></title>
+<link>https://www.canalsupporters.com/videos/oknwXIt6IJ8</link>
+<description><![CDATA[
+Résumé vidéo : retrouvez les déclarations du staff parisien avant le prochain match du PSG, avec un point complet sur l’effectif, la tactique et les enjeux de la rencontre.
+]]></description>
+
+<guid isPermaLink="false">csparis:oknwXIt6IJ8</guid>
+<dc:creator><![CDATA[CanalSupportersParis]]></dc:creator>
 <pubDate>Wed, 19 Nov 2025 09:51:21 GMT</pubDate>
 
 <content:encoded><![CDATA[
-<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+<p><strong>Au programme :</strong> conférence de presse du coach, informations d’avant-match, analyse tactique et réactions autour du club. Une synthèse claire et dynamique pour tout savoir avant le coup d’envoi.</p>
 ]]></content:encoded>
 
+<category>Sport</category>
+<category>Football</category>
+
 <media:group>
-    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/downloads/default.mp4"
-                   type="video/mp4"
-                   medium="video"
-                   width="1280"
-                   height="720"
-                   duration="60"
-                   isDefault="true"/>
-    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/thumbnails/thumbnail.jpg?height=720"
-                     width="1280"
-                     height="720"/>
-    <media:title>CanalSupportersParis</media:title>
-    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:content 
+        url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/downloads/default.mp4"
+        type="video/mp4"
+        medium="video"
+        width="1280"
+        height="720"
+        duration="60"
+        isDefault="true"/>
+
+    <media:thumbnail
+        url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/thumbnails/thumbnail.jpg?height=720"
+        width="1280"
+        height="720"/>
+
+    <media:title><![CDATA[PSG – Conférence de Presse : les dernières infos]]></media:title>
+    <media:description><![CDATA[Extraits et analyse avant le prochain match du Paris Saint-Germain.]]></media:description>
     <media:category>News</media:category>
     <media:credit role="author">CanalSupportersParis</media:credit>
     <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+    <media:copyright><![CDATA[© 2025 CanalSupportersParis]]></media:copyright>
 </media:group>
-</item>
-     <item>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/video/canalsupportersparis/9R6YeZPPVjM</link>
-<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
-<guid isPermaLink="false">youtube:9R6YeZPPVjM</guid>
-<dc:creator>CanalSupportersParis</dc:creator>
-<pubDate>Wed, 19 Nov 2025 09:50:12 GMT</pubDate>
 
-<content:encoded><![CDATA[
-<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
-]]></content:encoded>
-
-<media:group>
-    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/98196a9fbc91d057ebb0075fb6c758e1/downloads/default.mp4"
-                   type="video/mp4"
-                   medium="video"
-                   width="1280"
-                   height="720"
-                   duration="60"
-                   isDefault="true"/>
-    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/98196a9fbc91d057ebb0075fb6c758e1/thumbnails/thumbnail.jpg?height=720"
-                     width="1280"
-                     height="720"/>
-    <media:title>CanalSupportersParis</media:title>
-    <media:description>Vidéo CanalSupportersParis</media:description>
-    <media:category>News</media:category>
-    <media:credit role="author">CanalSupportersParis</media:credit>
-    <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:coypright>© 2025 CanalSupportersParis</media:coypright>
-</media:group>
-</item>
-<item>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/video/canalsupportersparis/mJJkw0s2k5U</link>
-<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
-<guid isPermaLink="false">youtube:mJJkw0s2k5U</guid>
-<dc:creator>CanalSupportersParis</dc:creator>
-<pubDate>Mon, 17 Nov 2025 17:01:43 GMT</pubDate>
-
-<content:encoded><![CDATA[
-<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
-]]></content:encoded>
-
-<media:group>
-    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/5af63ebbf68410eaaf62c22db2402063/downloads/default.mp4"
-                   type="video/mp4"
-                   medium="video"
-                   width="1280"
-                   height="720"
-                   duration="60"
-                   isDefault="true"/>
-    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/5af63ebbf68410eaaf62c22db2402063/thumbnails/thumbnail.jpg?height=720"
-                     width="1280"
-                     height="720"/>
-    <media:title>CanalSupportersParis</media:title>
-    <media:description>Vidéo CanalSupportersParis</media:description>
-    <media:category>News</media:category>
-    <media:credit role="author">CanalSupportersParis</media:credit>
-    <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
-</media:group>
-</item>
-<item>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/video/canalsupportersparis/QZL7yt2xEGs</link>
-<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
-<guid isPermaLink="false">youtube:QZL7yt2xEGs</guid>
-<dc:creator>CanalSupportersParis</dc:creator>
-<pubDate>Mon, 17 Nov 2025 17:01:06 GMT</pubDate>
-
-<content:encoded><![CDATA[
-<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
-]]></content:encoded>
-
-<media:group>
-    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/215ed62c80a5b25536ac18202f4c9bc8/downloads/default.mp4"
-                   type="video/mp4"
-                   medium="video"
-                   width="1280"
-                   height="720"
-                   duration="60"
-                   isDefault="true"/>
-
-    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/215ed62c80a5b25536ac18202f4c9bc8/thumbnails/thumbnail.jpg?height=720"
-                     width="1280"
-                     height="720"/>
-
-    <media:title>CanalSupportersParis</media:title>
-    <media:description>Vidéo CanalSupportersParis</media:description>
-    <media:category>News</media:category>
-    <media:credit role="author">CanalSupportersParis</media:credit>
-    <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
-</media:group>
 </item>
 
-<item>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/video/canalsupportersparis/6rblhwzJ6u4</link>
-<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
-<guid isPermaLink="false">youtube:6rblhwzJ6u4</guid>
-<dc:creator>CanalSupportersParis</dc:creator>
-<pubDate>Mon, 17 Nov 2025 17:00:21 GMT</pubDate>
-
-<content:encoded><![CDATA[
-<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
-]]></content:encoded>
-
-<media:group>
-    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/63a1dcd8004ae9d55daea09cfcee072a/downloads/default.mp4"
-                   type="video/mp4"
-                   medium="video"
-                   width="1280"
-                   height="720"
-                   duration="60"
-                   isDefault="true"/>
-
-    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/63a1dcd8004ae9d55daea09cfcee072a/thumbnails/thumbnail.jpg?height=720"
-                     width="1280"
-                     height="720"/>
-
-    <media:title>CanalSupportersParis</media:title>
-    <media:description>Vidéo CanalSupportersParis</media:description>
-    <media:category>News</media:category>
-    <media:credit role="author">CanalSupportersParis</media:credit>
-    <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
-</media:group>
-</item>
-<item>
-<title><![CDATA[CanalSupportersParis]]></title>
-<link>https://prebackend.bcovery.dev/video/canalsupportersparis/YLfYLfNRm64</link>
-<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
-<guid isPermaLink="false">youtube:YLfYLfNRm64</guid>
-<dc:creator>CanalSupportersParis</dc:creator>
-<pubDate>Mon, 17 Nov 2025 16:48:11 GMT</pubDate>
-
-<content:encoded><![CDATA[
-<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
-]]></content:encoded>
-
-<media:group>
-    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/acc899453bce67f0dd99a1d66659942d/downloads/default.mp4"
-                   type="video/mp4"
-                   medium="video"
-                   width="1280"
-                   height="720"
-                   duration="60"
-                   isDefault="true"/>
-
-    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/acc899453bce67f0dd99a1d66659942d/thumbnails/thumbnail.jpg?height=720"
-                     width="1280"
-                     height="720"/>
-
-    <media:title>CanalSupportersParis</media:title>
-    <media:description>Vidéo CanalSupportersParis</media:description>
-    <media:category>News</media:category>
-    <media:credit role="author">CanalSupportersParis</media:credit>
-    <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
-</media:group>
-</item>
 </channel>
 </rss>
+
 
