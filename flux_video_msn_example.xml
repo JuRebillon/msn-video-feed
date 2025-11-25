@@ -1,60 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/"
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     version="2.0">
-
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
 <channel>
-<title><![CDATA[CanalSupportersParis – Vidéos]]></title>
-<link>https://www.canalsupporters.com/videos</link>
-<description><![CDATA[Flux vidéo CanalSupportersParis destiné à MSN]]></description>
-<language>fr</language>
-<lastBuildDate>Tue, 25 Nov 2025 13:48:52 GMT</lastBuildDate>
+    <title><![CDATA[ CanalSupportersParis : Flux Vidéo Officiel ]]></title>
+    <link>https://[...VOTRE URL DE FLUX HÉBERGÉ...]</link>
+    <description><![CDATA[ Le flux vidéo officiel de CanalSupportersParis pour la syndication MSN. Toutes les dernières actualités du PSG. ]]></description>
+    <language>fr</language>
+    <lastBuildDate>Tue, 25 Nov 2025 16:00:32 GMT</lastBuildDate>
 
-<item>
-<title><![CDATA[PSG – Conférence de Presse : les dernières infos avant le match]]></title>
-<link>https://www.canalsupporters.com/videos/oknwXIt6IJ8</link>
-<description><![CDATA[
-Résumé vidéo : retrouvez les déclarations du staff parisien avant le prochain match du PSG, avec un point complet sur l’effectif, la tactique et les enjeux de la rencontre.
-]]></description>
+    <item>
+        <title><![CDATA[ L'entraînement du PSG avant le Classico : Analyse et Enjeux du Match ! ]]></title>
+        <link>https://[...VOTRE URL CANONIQUE VERS L'ARTICLE...]</link>
+        <description><![CDATA[ Analyse complète de la séance d'entraînement de l'équipe première du Paris Saint-Germain et les attentes autour du prochain match crucial. ]]></description>
 
-<guid isPermaLink="false">csparis:oknwXIt6IJ8</guid>
-<dc:creator><![CDATA[CanalSupportersParis]]></dc:creator>
-<pubDate>Wed, 19 Nov 2025 09:51:21 GMT</pubDate>
+        <guid isPermaLink="false">youtube:oknwXIt6IJ8</guid>
+        <mi:uniqueId>CSP-VIDEO-oknwXIt6IJ8</mi:uniqueId>
 
-<content:encoded><![CDATA[
-<p><strong>Au programme :</strong> conférence de presse du coach, informations d’avant-match, analyse tactique et réactions autour du club. Une synthèse claire et dynamique pour tout savoir avant le coup d’envoi.</p>
-]]></content:encoded>
+        <dc:creator>CanalSupportersParis</dc:creator>
+        <mi:hasSyndicationRights>true</mi:hasSyndicationRights>
 
-<category>Sport</category>
-<category>Football</category>
+        <pubDate>Wed, 19 Nov 2025 09:51:21 GMT</pubDate>
+        <dcterms:modified>Wed, 19 Nov 2025 09:51:21 GMT</dcterms:modified>
 
-<media:group>
-    <media:content 
-        url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/downloads/default.mp4"
-        type="video/mp4"
-        medium="video"
-        width="1280"
-        height="720"
-        duration="60"
-        isDefault="true"/>
+        <media:group>
+            <media:content 
+                url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/downloads/default.mp4" 
+                type="video/mp4" 
+                medium="video" 
+                width="1280" 
+                height="720" 
+                duration="60" 
+                lang="fr"
+                fileSize="10485760" 
+                isDefault="true"/>
 
-    <media:thumbnail
-        url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/thumbnails/thumbnail.jpg?height=720"
-        width="1280"
-        height="720"/>
-
-    <media:title><![CDATA[PSG – Conférence de Presse : les dernières infos]]></media:title>
-    <media:description><![CDATA[Extraits et analyse avant le prochain match du Paris Saint-Germain.]]></media:description>
-    <media:category>News</media:category>
-    <media:credit role="author">CanalSupportersParis</media:credit>
-    <media:rating scheme="urn:simple">nonadult</media:rating>
-    <media:copyright><![CDATA[© 2025 CanalSupportersParis]]></media:copyright>
-</media:group>
-
-</item>
-
-</channel>
+            <media:thumbnail 
+                url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/thumbnails/thumbnail.jpg?height=720" 
+                width="1280" 
+                height="720"/>
+            
+            <media:title><![CDATA[ L'entraînement du PSG avant le Classico ]]></media:title>
+            <media:description><![CDATA[ Analyse de l'entraînement et des enjeux pour le PSG. ]]></media:description>
+            <media:category>Sport/Football</media:category>
+            <media:credit role="author">CanalSupportersParis</media:credit>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+        </media:group>
+    </item>
+    </channel>
 </rss>
-
-
