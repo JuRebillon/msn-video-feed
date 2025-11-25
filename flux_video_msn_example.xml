@@ -6,20 +6,23 @@
      xmlns:dcterms="http://purl.org/dc/terms/"
      xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
 <channel>
-    <title><![CDATA[ CanalSupportersParis : Flux Vidéo Officiel ]]></title>
-    <link>https://[...VOTRE URL DE FLUX HÉBERGÉ...]</link>
-    <description><![CDATA[ Le flux vidéo officiel de CanalSupportersParis pour la syndication MSN. Toutes les dernières actualités du PSG. ]]></description>
+    <title><![CDATA[ CanalSupportersParis : Flux Vidéo Officiel ]]>
+    </title>
+    <link>https://prebackend.bcovery.dev/mrss/canalsupportersparis</link>
+    <description><![CDATA[ Flux vidéo syndiqué par CanalSupportersParis pour l'actualité du PSG. ]]>
+    </description>
     <language>fr</language>
     <lastBuildDate>Tue, 25 Nov 2025 16:00:32 GMT</lastBuildDate>
 
     <item>
-        <title><![CDATA[ L'entraînement du PSG avant le Classico : Analyse et Enjeux du Match ! ]]></title>
-        <link>https://[...VOTRE URL CANONIQUE VERS L'ARTICLE...]</link>
-        <description><![CDATA[ Analyse complète de la séance d'entraînement de l'équipe première du Paris Saint-Germain et les attentes autour du prochain match crucial. ]]></description>
+        <title><![CDATA[ Le Debrief du Match PSG vs Monaco (3-1) : Analyse et Notes ! ]]>
+        </title>
+        <link>https://www.canalsupportersparis.com/video/debrief-psg-monaco-3-1</link>
+        <description><![CDATA[ Retour complet sur la victoire du PSG contre Monaco : les meilleurs moments, les performances individuelles et les réactions des joueurs. ]]>
+        </description>
 
         <guid isPermaLink="false">youtube:oknwXIt6IJ8</guid>
         <mi:uniqueId>CSP-VIDEO-oknwXIt6IJ8</mi:uniqueId>
-
         <dc:creator>CanalSupportersParis</dc:creator>
         <mi:hasSyndicationRights>true</mi:hasSyndicationRights>
 
@@ -33,9 +36,9 @@
                 medium="video" 
                 width="1280" 
                 height="720" 
-                duration="60" 
-                lang="fr"
+                duration="300"
                 fileSize="10485760" 
+                lang="fr"
                 isDefault="true"/>
 
             <media:thumbnail 
@@ -43,8 +46,52 @@
                 width="1280" 
                 height="720"/>
             
-            <media:title><![CDATA[ L'entraînement du PSG avant le Classico ]]></media:title>
-            <media:description><![CDATA[ Analyse de l'entraînement et des enjeux pour le PSG. ]]></media:description>
+            <media:title><![CDATA[ Debrief PSG Monaco ]]>
+            </media:title>
+            <media:description><![CDATA[ Le compte-rendu du match de Ligue 1. ]]>
+            </media:description>
+            <media:category>Sport/Football</media:category>
+            <media:credit role="author">CanalSupportersParis</media:credit>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+        </media:group>
+    </item>
+    <item>
+        <title><![CDATA[ Entraînement au Camp des Loges : Kylian Mbappé de retour ? ]]>
+        </title>
+        <link>https://www.canalsupportersparis.com/video/entrainement-mbappe-retour</link>
+        <description><![CDATA[ Les dernières nouvelles de l'entraînement du PSG et l'état de forme des joueurs avant la prochaine rencontre de Ligue des Champions. ]]>
+        </description>
+
+        <guid isPermaLink="false">youtube:9R6YeZPPVjM</guid>
+        <mi:uniqueId>CSP-VIDEO-9R6YeZPPVjM</mi:uniqueId>
+        <dc:creator>CanalSupportersParis</dc:creator>
+        <mi:hasSyndicationRights>true</mi:hasSyndicationRights>
+
+        <pubDate>Wed, 19 Nov 2025 09:50:12 GMT</pubDate>
+        <dcterms:modified>Wed, 19 Nov 2025 09:50:12 GMT</dcterms:modified>
+
+        <media:group>
+            <media:content 
+                url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/98196a9fbc91d057ebb0075fb6c758e1/downloads/default.mp4" 
+                type="video/mp4" 
+                medium="video" 
+                width="1280" 
+                height="720" 
+                duration="450"
+                fileSize="15728640" 
+                lang="fr"
+                isDefault="true"/>
+
+            <media:thumbnail 
+                url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/98196a9fbc91d057ebb0075fb6c758e1/thumbnails/thumbnail.jpg?height=720" 
+                width="1280" 
+                height="720"/>
+            
+            <media:title><![CDATA[ Mbappé au Camp des Loges ]]>
+            </media:title>
+            <media:description><![CDATA[ Retour sur les dernières sessions d'entraînement. ]]>
+            </media:description>
             <media:category>Sport/Football</media:category>
             <media:credit role="author">CanalSupportersParis</media:credit>
             <media:rating scheme="urn:simple">nonadult</media:rating>
