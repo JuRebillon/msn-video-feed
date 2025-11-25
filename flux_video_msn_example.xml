@@ -1,54 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:dcterms="http://purl.org/dc/terms/"
-     xmlns:mi="http://schemas.ingestion.microsoft.com/common/">
-<channel>
-    <title><![CDATA[ CanalSupportersParis : Flux Vidéo Officiel ]]></title>
-    <link>https://prebackend.bcovery.dev/mrss/canalsupportersparis</link>
-    <description><![CDATA[ Flux vidéo syndiqué par CanalSupportersParis pour l'actualité du PSG. ]]></description>
-    <language>fr-fr</language> <lastBuildDate>Tue, 25 Nov 2025 17:00:00 GMT</lastBuildDate>
+     xmlns:dcterms="http://purl.org/dc/terms/">
 
+  <channel>
+
+    <!-- Channel Metadata -->
+    <title>Feed title</title>
+    <link>https://www.contoso.com/sports</link>
+    <description>Feed description</description>
+    <lastBuildDate>01 Oct 2017 13:00:00 GMT</lastBuildDate>
+
+    <!-- Video Item -->
     <item>
-        <title><![CDATA[ Le Debrief du Match PSG vs Monaco (3-1) : Analyse et Notes ! ]]></title>
-        <link>https://www.canalsupportersparis.com/video/debrief-psg-monaco-3-1</link>
-        <description><![CDATA[ Retour complet sur la victoire du PSG contre Monaco : les meilleurs moments, les performances individuelles et les réactions des joueurs. ]]</description>
 
-        <pubDate>Wed, 19 Nov 2025 09:51:21 GMT</pubDate>
-        <dcterms:modified>Wed, 19 Nov 2025 09:51:21 GMT</dcterms:modified>
+      <!-- Required Metadata -->
+      <guid isPermaLink="false">723435</guid>
+      <title>Video title</title>
+      <pubDate>01 Oct 2017 13:00:00 GMT</pubDate>
+      <dcterms:modified>2017-10-10T10:00:00+0100</dcterms:modified>
+      <link>https://v3spec.msn.com/articleid=2836489202/</link>
 
-        <guid isPermaLink="false">youtube:oknwXIt6IJ8</guid>
-        <mi:uniqueId>CSP-VIDEO-oknwXIt6IJ8</mi:uniqueId>
-        <dc:creator>CanalSupportersParis</dc:creator>
-        <mi:hasSyndicationRights>true</mi:hasSyndicationRights>
+      <!-- Author & Subtitle -->
+      <dc:creator>Video author</dc:creator>
+      <dcterms:alternative>Article subtitle</dcterms:alternative>
 
-        <media:group>
-            <media:content 
-                url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/downloads/default.mp4" 
-                type="video/mp4" 
-                medium="video" 
-                width="1280" 
-                height="720" 
-                duration="300"
-                fileSize="10485760" 
-                lang="fr"
-                isDefault="true"/>
+      <!-- Expiration Controls -->
+      <dcterms:valid>
+        start=2016-10-01T10:00:00+0100; 
+        end=2018-10-02T10:00:00+0100; 
+        scheme=W3C-DTF
+      </dcterms:valid>
+      <mi:expirationDate>2018-10-02T13:00:00.52Z</mi:expirationDate>
 
-            <media:thumbnail 
-                url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/thumbnails/thumbnail.jpg?height=720" 
-                width="1280" 
-                height="720"/>
-            
-            <media:title><![CDATA[ Debrief PSG Monaco ]]>
-            </media:title>
-            <media:description><![CDATA[ Le compte-rendu du match de Ligue 1. ]]>
-            </media:description>
-            <media:category>Sport/Football</media:category>
-            <media:credit role="author">CanalSupportersParis</media:credit>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:copyright>© 2025 CanalSupportersParis</media:copyright>
-        </media:group>
+      <!-- Description & Metadata -->
+      <description>Video description</description>
+      <media:keywords>keyword1,keyword2,keyword3</media:keywords>
+      <category>News</category>
+      <category>Sports</category>
+
+      <!-- Video Metadata -->
+      <media:content
+          url="https://v3spec.msn.com/video.mp4"
+          duration="512"
+          type="video/mp4"
+          medium="video">
+
+        <!-- Thumbnail -->
+        <media:thumbnail 
+            url="https://v3spec.msn.com/image.jpg"
+            height="480"
+            width="853" />
+
+        <!-- Title & Description (Overrides) -->
+        <media:title>Video title</media:title>
+        <media:description>Video description</media:description>
+
+        <!-- Attribution -->
+        <media:credit>Joe Gargery/Fabrikam Videos</media:credit>
+
+        <!-- Captions (TTML format) -->
+        <media:subTitle 
+            type="application/ttml"
+            lang="en"
+            href="https://www.contols.org/closedcaptions.ttml" />
+
+      </media:content>
+
     </item>
-    </channel>
+
+  </channel>
 </rss>
