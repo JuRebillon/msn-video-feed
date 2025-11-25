@@ -1,53 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
 
-  <channel>
-    <title>Vidéos - L'Humanité</title>
-    <link>https://www.humanite.fr</link>
-    <description>Dernières vidéos publiées par la rédaction de L'Humanité</description>
-    <language>fr</language>
-    <lastBuildDate>Mon, 15 Apr 2025 10:00:00 GMT</lastBuildDate>
+<channel>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/mrss/canalsupportersparis</link>
+<description><![CDATA[Flux vidéo CanalSupportersParis destiné à MSN]]></description>
+<language>fr</language>
+<lastBuildDate>Tue, 25 Nov 2025 13:48:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/video/canalsupportersparis/oknwXIt6IJ8</link>
+<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
+<guid isPermaLink="false">youtube:oknwXIt6IJ8</guid>
+<dc:creator>CanalSupportersParis</dc:creator>
+<pubDate>Wed, 19 Nov 2025 09:51:21 GMT</pubDate>
 
-    <item>
-      <title>Mobilisation nationale contre la réforme</title>
-      <link>https://www.humanite.fr/videos/mobilisation-reforme</link>
-      <description>Des milliers de personnes ont défilé ce lundi à Paris pour protester contre la réforme.</description>
-      <pubDate>Mon, 15 Apr 2025 08:00:00 GMT</pubDate>
+<content:encoded><![CDATA[
+<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+]]></content:encoded>
 
-      <media:content 
-        url="https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
-        type="video/mp4"
-        width="1280"
-        height="720"
-        duration="60"
-        lang="fr" />
+<media:group>
+    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/downloads/default.mp4"
+                   type="video/mp4"
+                   medium="video"
+                   width="1280"
+                   height="720"
+                   duration="60"
+                   isDefault="true"/>
+    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/14b8f2a2ae1bbf8cde963f0897be2876/thumbnails/thumbnail.jpg?height=720"
+                     width="1280"
+                     height="720"/>
+    <media:title>CanalSupportersParis</media:title>
+    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:category>News</media:category>
+    <media:credit role="author">CanalSupportersParis</media:credit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+</media:group>
+</item>
+     <item>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/video/canalsupportersparis/9R6YeZPPVjM</link>
+<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
+<guid isPermaLink="false">youtube:9R6YeZPPVjM</guid>
+<dc:creator>CanalSupportersParis</dc:creator>
+<pubDate>Wed, 19 Nov 2025 09:50:12 GMT</pubDate>
 
-      <media:thumbnail url="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" />
-      <media:category>News</media:category>
-      <media:keywords>grève, réforme, mobilisation, syndicats</media:keywords>
-      <media:credit role="author">L'Humanité</media:credit>
-    </item>
+<content:encoded><![CDATA[
+<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+]]></content:encoded>
 
-    <item>
-      <title>Culture : rencontre avec Ken Loach</title>
-      <link>https://www.humanite.fr/videos/ken-loach-interview</link>
-      <description>Le cinéaste britannique Ken Loach revient sur son dernier film et sa vision du monde.</description>
-      <pubDate>Sun, 14 Apr 2025 17:30:00 GMT</pubDate>
+<media:group>
+    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/98196a9fbc91d057ebb0075fb6c758e1/downloads/default.mp4"
+                   type="video/mp4"
+                   medium="video"
+                   width="1280"
+                   height="720"
+                   duration="60"
+                   isDefault="true"/>
+    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/98196a9fbc91d057ebb0075fb6c758e1/thumbnails/thumbnail.jpg?height=720"
+                     width="1280"
+                     height="720"/>
+    <media:title>CanalSupportersParis</media:title>
+    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:category>News</media:category>
+    <media:credit role="author">CanalSupportersParis</media:credit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <media:coypright>© 2025 CanalSupportersParis</media:coypright>
+</media:group>
+</item>
+<item>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/video/canalsupportersparis/mJJkw0s2k5U</link>
+<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
+<guid isPermaLink="false">youtube:mJJkw0s2k5U</guid>
+<dc:creator>CanalSupportersParis</dc:creator>
+<pubDate>Mon, 17 Nov 2025 17:01:43 GMT</pubDate>
 
-      <media:content 
-        url="https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
-        type="video/mp4"
-        width="1280"
-        height="720"
-        duration="60"
-        lang="fr" />
+<content:encoded><![CDATA[
+<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+]]></content:encoded>
 
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ken_Loach_by_Gage_Skidmore.jpg/640px-Ken_Loach_by_Gage_Skidmore.jpg" />
-      <media:category>Culture</media:category>
-      <media:keywords>cinéma, interview, Ken Loach, film</media:keywords>
-      <media:credit role="author">L'Humanité</media:credit>
-    </item>
+<media:group>
+    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/5af63ebbf68410eaaf62c22db2402063/downloads/default.mp4"
+                   type="video/mp4"
+                   medium="video"
+                   width="1280"
+                   height="720"
+                   duration="60"
+                   isDefault="true"/>
+    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/5af63ebbf68410eaaf62c22db2402063/thumbnails/thumbnail.jpg?height=720"
+                     width="1280"
+                     height="720"/>
+    <media:title>CanalSupportersParis</media:title>
+    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:category>News</media:category>
+    <media:credit role="author">CanalSupportersParis</media:credit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+</media:group>
+</item>
+<item>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/video/canalsupportersparis/QZL7yt2xEGs</link>
+<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
+<guid isPermaLink="false">youtube:QZL7yt2xEGs</guid>
+<dc:creator>CanalSupportersParis</dc:creator>
+<pubDate>Mon, 17 Nov 2025 17:01:06 GMT</pubDate>
 
-  </channel>
+<content:encoded><![CDATA[
+<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+]]></content:encoded>
+
+<media:group>
+    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/215ed62c80a5b25536ac18202f4c9bc8/downloads/default.mp4"
+                   type="video/mp4"
+                   medium="video"
+                   width="1280"
+                   height="720"
+                   duration="60"
+                   isDefault="true"/>
+
+    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/215ed62c80a5b25536ac18202f4c9bc8/thumbnails/thumbnail.jpg?height=720"
+                     width="1280"
+                     height="720"/>
+
+    <media:title>CanalSupportersParis</media:title>
+    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:category>News</media:category>
+    <media:credit role="author">CanalSupportersParis</media:credit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+</media:group>
+</item>
+
+<item>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/video/canalsupportersparis/6rblhwzJ6u4</link>
+<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
+<guid isPermaLink="false">youtube:6rblhwzJ6u4</guid>
+<dc:creator>CanalSupportersParis</dc:creator>
+<pubDate>Mon, 17 Nov 2025 17:00:21 GMT</pubDate>
+
+<content:encoded><![CDATA[
+<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+]]></content:encoded>
+
+<media:group>
+    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/63a1dcd8004ae9d55daea09cfcee072a/downloads/default.mp4"
+                   type="video/mp4"
+                   medium="video"
+                   width="1280"
+                   height="720"
+                   duration="60"
+                   isDefault="true"/>
+
+    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/63a1dcd8004ae9d55daea09cfcee072a/thumbnails/thumbnail.jpg?height=720"
+                     width="1280"
+                     height="720"/>
+
+    <media:title>CanalSupportersParis</media:title>
+    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:category>News</media:category>
+    <media:credit role="author">CanalSupportersParis</media:credit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+</media:group>
+</item>
+<item>
+<title><![CDATA[CanalSupportersParis]]></title>
+<link>https://prebackend.bcovery.dev/video/canalsupportersparis/YLfYLfNRm64</link>
+<description><![CDATA[Vidéo publiée par CanalSupportersParis.]]></description>
+<guid isPermaLink="false">youtube:YLfYLfNRm64</guid>
+<dc:creator>CanalSupportersParis</dc:creator>
+<pubDate>Mon, 17 Nov 2025 16:48:11 GMT</pubDate>
+
+<content:encoded><![CDATA[
+<p>Retrouvez la dernière vidéo publiée par CanalSupportersParis.</p>
+]]></content:encoded>
+
+<media:group>
+    <media:content url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/acc899453bce67f0dd99a1d66659942d/downloads/default.mp4"
+                   type="video/mp4"
+                   medium="video"
+                   width="1280"
+                   height="720"
+                   duration="60"
+                   isDefault="true"/>
+
+    <media:thumbnail url="https://customer-b11xw661n8w4e40m.cloudflarestream.com/acc899453bce67f0dd99a1d66659942d/thumbnails/thumbnail.jpg?height=720"
+                     width="1280"
+                     height="720"/>
+
+    <media:title>CanalSupportersParis</media:title>
+    <media:description>Vidéo CanalSupportersParis</media:description>
+    <media:category>News</media:category>
+    <media:credit role="author">CanalSupportersParis</media:credit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <media:copyright>© 2025 CanalSupportersParis</media:copyright>
+</media:group>
+</item>
+</channel>
 </rss>
+
