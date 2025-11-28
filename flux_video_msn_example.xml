@@ -1,76 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:dcterms="http://purl.org/dc/terms/">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Mon Contenu MSN avec Vidéo</title>
+        <link>https://www.mon-site.fr</link>
+        <description>Flux d'exemple pour l'intégration de Dailymotion.</description>
+        <language>fr</language>
+        <pubDate>Fri, 28 Nov 2025 14:40:00 +0100</pubDate>
 
-  <channel>
+        <item>
+            <title>Valerio Piva et Vincent Lavenu inquiets pour l'avenir du cyclisme</title>
+            <link>https://www.cyclismactu.net/news-route-valerio-piva-et-vincent-lavenu-inquiets-pour-avenir-du-cyclisme-90966.html</link>
+            <guid isPermaLink="true">https://www.cyclismactu.net/news-route-valerio-piva-et-vincent-lavenu-inquiets-pour-avenir-du-cyclisme-90966.html</guid>
+            <pubDate>Fri, 22 Nov 2025 12:00:00 +0100</pubDate>
 
-    <!-- Channel Metadata -->
-    <title>Feed title</title>
-    <link>https://www.contoso.com/sports</link>
-    <description>Feed description</description>
-    <lastBuildDate>01 Oct 2017 13:00:00 GMT</lastBuildDate>
+            <description>
+                <![CDATA[
+                <p>Les managers de l'équipe AG2R s'expriment sur les défis financiers et structurels auxquels fait face le cyclisme professionnel. Une interview vidéo est incluse.</p>
+                <iframe frameborder="0" width="480" height="270" src="https://geo.dailymotion.com/player/x6xnw.html?video=x9u0eji" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+                ]]>
+            </description>
 
-    <!-- Video Item -->
-    <item>
+            <content:encoded>
+                <![CDATA[
+                <h2>Piva et Lavenu sur l'avenir du cyclisme</h2>
+                <p>Valerio Piva et Vincent Lavenu partagent leurs préoccupations concernant l'évolution et la viabilité économique de leur sport. L'interview exclusive est disponible ci-dessous.</p>
+                <iframe frameborder="0" width="640" height="360" src="https://geo.dailymotion.com/player/x6xnw.html?video=x9u0eji" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+                <p>Ils abordent notamment le rôle des jeunes coureurs et les budgets des équipes...</p>
+                ]]>
+            </content:encoded>
+        </item>
 
-      <!-- Required Metadata -->
-      <guid isPermaLink="false">723435</guid>
-      <title>Video title</title>
-      <pubDate>01 Oct 2017 13:00:00 GMT</pubDate>
-      <dcterms:modified>2017-10-10T10:00:00+0100</dcterms:modified>
-      <link>https://v3spec.msn.com/articleid=2836489202/</link>
-
-      <!-- Author & Subtitle -->
-      <dc:creator>Video author</dc:creator>
-      <dcterms:alternative>Article subtitle</dcterms:alternative>
-
-      <!-- Expiration Controls -->
-      <dcterms:valid>
-        start=2016-10-01T10:00:00+0100; 
-        end=2018-10-02T10:00:00+0100; 
-        scheme=W3C-DTF
-      </dcterms:valid>
-      <mi:expirationDate>2018-10-02T13:00:00.52Z</mi:expirationDate>
-
-      <!-- Description & Metadata -->
-      <description>Video description</description>
-      <media:keywords>keyword1,keyword2,keyword3</media:keywords>
-      <category>News</category>
-      <category>Sports</category>
-
-      <!-- Video Metadata -->
-      <media:content
-          url="https://v3spec.msn.com/video.mp4"
-          duration="512"
-          type="video/mp4"
-          medium="video">
-
-        <!-- Thumbnail -->
-        <media:thumbnail 
-            url="https://v3spec.msn.com/image.jpg"
-            height="480"
-            width="853" />
-
-        <!-- Title & Description (Overrides) -->
-        <media:title>Video title</media:title>
-        <media:description>Video description</media:description>
-
-        <!-- Attribution -->
-        <media:credit>Joe Gargery/Fabrikam Videos</media:credit>
-
-        <!-- Captions (TTML format) -->
-        <media:subTitle 
-            type="application/ttml"
-            lang="en"
-            href="https://www.contols.org/closedcaptions.ttml" />
-
-      </media:content>
-
-    </item>
-
-  </channel>
+    </channel>
 </rss>
