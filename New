@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Mon Contenu MSN avec Vidéo</title>
+        <link>https://www.mon-site.fr</link>
+        <description>Flux d'exemple complet pour l'intégration de Dailymotion.</description>
+        <language>fr</language>
+        <pubDate>Fri, 28 Nov 2025 15:45:00 +0100</pubDate>
+
+        <item>
+            <title>Valerio Piva et Vincent Lavenu inquiets pour l'avenir du cyclisme</title>
+            <link>https://www.cyclismactu.net/news-route-valerio-piva-et-vincent-lavenu-inquiets-pour-avenir-du-cyclisme-90966.html</link>
+            <guid isPermaLink="true">https://www.cyclismactu.net/news-route-valerio-piva-et-vincent-lavenu-inquiets-pour-avenir-du-cyclisme-90966.html</guid>
+            <pubDate>Fri, 22 Nov 2025 12:00:00 +0100</pubDate>
+
+            <media:content
+                url="https://www.cyclismactu.net/photo/news/90966_lavenupiva.jpg"
+                medium="image"
+                type="image/jpeg"
+                width="1280"
+                height="720">
+                <media:thumbnail url="https://www.cyclismactu.net/photo/news/90966_lavenupiva.jpg" width="640" height="360" />
+            </media:content>
+            
+            <description>
+                <![CDATA[
+                Les managers de l'équipe AG2R s'expriment sur les défis financiers et structurels auxquels fait face le cyclisme professionnel. Une interview vidéo est incluse.
+                ]]>
+            </description>
+
+            <content:encoded>
+                <![CDATA[
+                <h2>Piva et Lavenu sur l'avenir du cyclisme : une situation paradoxale</h2>
+                
+                <p>Le cyclisme professionnel vit une période paradoxale. D'un côté, la popularité et l'engouement n'ont jamais été aussi élevés, avec des courses féminines qui gagnent en visibilité et des audiences records pour les grands Tours. De l'autre, les bases financières et structurelles du sport restent étonnamment fragiles. C'est le constat alarmant que dressent deux figures majeures du peloton, Valerio Piva, directeur sportif chez Jayco AlUla, et Vincent Lavenu, manager général de l'équipe AG2R.</p>
+                
+                <p>L'inquiétude porte notamment sur la pérennité des équipes face à l'inflation des coûts, la difficulté à trouver des sponsors stables sur le long terme, et l'inégalité de la répartition des revenus. Piva et Lavenu s'interrogent sur la capacité du cyclisme à évoluer vers un modèle économique plus juste et plus résilient. Les droits télévisuels, la monétisation des événements et la création de produits dérivés sont des pistes, mais leur implémentation est lente et complexe.</p>
+                
+                <iframe frameborder="0" width="640" height="360" src="https://geo.dailymotion.com/player/x6xnw.html?video=x9u0eji" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+                
+                <p>Ils soulignent l'urgence d'une réforme globale pour protéger le spectacle et les coureurs, qui sont au cœur de ce sport. Le débat sur l'avenir du cyclisme ne fait que commencer, et les voix des managers sont essentielles pour guider cette transition.</p>
+                
+                <p>***</p>
+                ]]>
+            </content:encoded>
+        </item>
+
+    </channel>
+</rss>
