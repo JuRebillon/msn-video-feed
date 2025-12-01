@@ -7,13 +7,13 @@
         <link>https://www.mon-site.fr</link>
         <description>Flux d'actualités cyclistes syndiqué pour MSN (avec vidéo).</description>
         <language>fr</language>
-        <pubDate>Mon, 1 Dec 2025 12:10:00 +0100</pubDate>
+        <pubDate>Mon, 1 Dec 2025 19:10:00 +0100</pubDate>
 
         <item>
             <title>TRANSFERT - Un coureur d'Arkéa-B&amp;B Hotels va rebondir dans une ProTeam</title>
             <link>https://www.cyclismactu.net/news-transfert-un-coureur-d-arkea-b-b-hotels-va-rebondir-dans-une-proteam-90971.html</link>
             <guid isPermaLink="true">https://www.cyclismactu.net/news-transfert-un-coureur-d-arkea-b-b-hotels-va-rebondir-dans-une-proteam-90971.html</guid>
-            <pubDate>Mon, 1 Dec 2025 12:00:00 +0100</pubDate>
+            <pubDate>Mon, 1 Dec 2025 19:00:00 +0100</pubDate>
 
             <media:content
                 url="https://www.cyclismactu.net/photo/news/90971_verre.jpg"
@@ -43,12 +43,12 @@
                 
                 <h3>Vidéo : Alessandro Verre, 2e de l'étape reine du Giro d'Italia 2025</h3>
                 
-                <iframe
-                    frameborder="0"
-                    width="640"
-                    height="360"
-                    src="https://geo.dailymotion.com/player/x6xnw.html?video=x9kkcjm"
-                    allowfullscreen
+               <iframe 
+                    frameborder="0" 
+                    width="640" 
+                    height="360" 
+                    src="https://www.dailymotion.com/embed/video/x9kkcjm" 
+                    allowfullscreen 
                     allow="autoplay; encrypted-media"></iframe>
                 
                 <p>Le manager de l'équipe, [Nom du Manager], a confirmé qu'il cherchait à renforcer son effectif avec des profils polyvalents capables d'apporter de l'expérience et des points UCI cruciaux pour l'avenir de l'équipe. [...] L'équipe Arkéa-B&amp;B Hotels, de son côté, libère une place pour un nouvel arrivant ou pour réajuster sa masse salariale.</p>
